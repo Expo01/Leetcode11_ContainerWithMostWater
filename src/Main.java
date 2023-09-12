@@ -1,11 +1,6 @@
 public class Main {
-    public static void main(String[] args) {
 
-
-
-    }
 }
-
 
 // 2 pointer
 class Solution {
@@ -32,7 +27,7 @@ class Solution {
 
 
 
-//brute force O(n^2)
+//brute force O(n^2).
 //class Solution {
 //    public int maxArea(int[] height) {
 //        int maxStorage = 0;
